@@ -3,4 +3,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malf75&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="malf75" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malf75&show_icons=true&locale=en&theme=synthwave" alt="malf75" height="50px" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malf75&show_icons=true&locale=en&theme=synthwave" alt="malf75" height="150px" /></p>
