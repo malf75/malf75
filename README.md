@@ -1,4 +1,4 @@
-[![MaLf](https://imgur.com/a/bdRhVJE)](https://github.com/malf75)
+<img src="https://imgur.com/a/bdRhVJE" alt="MaLf"/>
 <p align="left">
 </p>
 
