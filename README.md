@@ -9,6 +9,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malf75&show_icons=true&locale=en&layout=compact" alt="malf75" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malf75&show_icons=true&locale=en" alt="malf75" /></p>
-
-[![Malf's GitHub stats](https://github-readme-stats.vercel.app/api?username=malf75&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malf75&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
